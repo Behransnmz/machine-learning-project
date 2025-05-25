@@ -69,3 +69,4 @@ Bu proje, bootcamp sonrası da geliştirilmeye açık bir çalışma olup, öğr
 
 * *Kullanılan Veri Seti:* [Italian Earthquake Catalogue 1985-2020](https://www.kaggle.com/datasets/die9origephit/italian-earthquake-catalogue-1985-2020)
 * *Proje Notebook'u:* Supervised.ipynb (Bu repoda bulunmaktadır)
+* Projenin Kaggle çalışmasına https://www.kaggle.com/code/behransnmez/supervised-project linki üzerinden ulaşabilirsiniz
